@@ -1,5 +1,3 @@
-###------------------ Script 17 -----------------###
-
 # Análise Exploratória #
 
 ### Estatística Descritiva
