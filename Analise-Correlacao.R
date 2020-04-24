@@ -1,5 +1,3 @@
-###------------------ Script 18 -----------------###
-
 ##----- Análise de Correlação
 
 # O teste de correlação é usado para avaliar a associação entre duas ou mais 

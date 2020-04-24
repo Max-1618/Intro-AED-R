@@ -1,5 +1,3 @@
-###------------------ Script 19 -----------------###
-
 # Medidas de Dispersão - Coeficiente de Variação
 
 
