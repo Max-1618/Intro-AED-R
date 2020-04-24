@@ -35,3 +35,5 @@ Coeficiente de Curtose (Kurtosis)
 # Coeficiente-variacao
 
 Coeficiente de variação (CV)
+
+# Os arquivos pdf mostram o resultado da execução
