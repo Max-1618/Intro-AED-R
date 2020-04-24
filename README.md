@@ -8,18 +8,18 @@ Conteúdo dos scripts:
 # Estatistica-Descritiva 
 Conjunto de dados: iris e credito.csv
 
-Medidas de tendência central
-Medidas de variabilidade
-Resumo estatístico
-Gráficos de distribuição
-  boxplot
-  histograma
-  densidade
-  análise de distribuição normal (qqplot)
-Tabelas de frequência
-Gráfico de barras
-Gráfico de pizza
-Frequência relativa
+-Medidas de tendência central
+-Medidas de variabilidade
+-Resumo estatístico
+-Gráficos de distribuição
+  -boxplot
+  -histograma
+  -densidade
+  -análise de distribuição normal (qqplot)
+-Tabelas de frequência
+-Gráfico de barras
+-Gráfico de pizza
+-Frequência relativa
 
 # Analise-Correlacao
 Conjunto de dados: mtcars
